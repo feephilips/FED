@@ -58,9 +58,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Lijst met je bevindingen die in de test naar voren kwamen:
 
   #### Screenreader
-  Hier korte omschrijving (met indien nodig afbeeldingen)
-
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+ Heb eerst gekeken naar hoe de screen reader werkt. En even door de twee pagina’s gegaan. 
+-	Kopjes en de linkjes duidelijk maken.
+-	Je kunt filteren op kopjes en linkjes. 
+-	Alles was te bereiken met de screenreader
 
 
   #### Muis en Toetsenbord 
