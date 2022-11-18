@@ -179,27 +179,43 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Lijst met je bevindingen die in de test naar voren kwamen (geef ook aan wat er verbeterd is):
 
   #### Screenreader
-  Hier korte omschrijving (met indien nodig afbeeldingen)
-
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+  Heb eerst gekeken naar hoe de screen reader werkt. En even door de twee pagina’s gegaan.
+  
+-	Kopjes en de linkjes duidelijk maken.
+-	Je kunt filteren op kopjes en linkjes. 
+-	Alles was te bereiken met de screenreader.
+![image](https://user-images.githubusercontent.com/118175206/202661222-b82ae696-4dda-4eb2-a7ef-768a7fcd802c.png)
 
 
   #### Muis en Toetsenbord 
-  Hier korte omschrijving (met indien nodig afbeeldingen)
+ Ik ben gaan kijken of alles op de website te bereiken is met alleen het toetsenbord.
 
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+-	Je kunt niet naar de nagellakjes met tap.
+-	Je kunt goed heen en weer op de website doormiddel van het toetsen bord
+-	Alles moet met het toetsenbord te bereiken zijn voor mensen met een trillend arm. 
+![image](https://user-images.githubusercontent.com/118175206/202661425-e945cae9-d526-4c09-be1c-fb5d3e0c3a44.png)
 
 
   #### Motoriek (shocks, elastiekjes)
-  Hier korte omschrijving (met indien nodig afbeeldingen)
+  Ik heb gekeken hoe het is als je een beperking hebt, zoals een trillend arm. Ook heb ik verschillende brilletjes op gezet hoe het is als je zicht beperkt is. Of hoe het is om heel snel afgeleid te zijn. 
+  
+-	Met een trillende arm is het besturen van de muis heel lastig. Zo klik je snel mis. Daarom is het belangrijk dat je knoppen groot genoeg zijn.
+-	Alles moet met het toetsenbord te bereiken zijn voor mensen met een trillend arm. 
+-	Door minder goed zicht is het fijn dat de tekst niet in kleuren is maar in het zwart. Gekleurde tekst moet zwart worden.
+-	Als je snel afgeleid bent zorgen de vele kleuren snel voor afleiding. 
+-	Het is belangrijk dat de teksten en de buttons groot genoeg zijn.
+-	Alle informatie moet groot genoeg zijn voor mensen met een slecht zicht. Sommige teksten kunnen groter.
+![image](https://user-images.githubusercontent.com/118175206/202661330-033fa5d0-ddc6-4086-aa0b-4079d2fd831a.png)
 
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
 
 
   #### Visueel (brillen, contrast, kleurenblind, dark/light). 
-  Hier korte omschrijving (met indien nodig afbeeldingen)
+ Ik heb via inspecteren de kleuren van de website verandert en gekeken hoe het is voor iemand die niet meer zo goed ziet.
 
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+-	Als je de kleuren anders ziet is het handig als de namen van de nagellak kleuren goed omschreven zijn. De meeste zijn dat ook.
+-	Als je minder goed ziet is het belangrijk dat de letter grootte groot genoeg is.
+-	Als je alles in een grijstint ziet is alles gelijk heel eentonig. Het is goed om voorgrondkleuren en achtergrondkleuren van elkaar te laten verschillen.
+![image](https://user-images.githubusercontent.com/118175206/202661543-42c25b94-9103-4fe3-b18d-4f506a2da2bf.png)
 
 </details>
 
