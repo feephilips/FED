@@ -123,18 +123,23 @@ Ik heb via inspecteren de kleuren van de website verandert en gekeken hoe het is
   <summary>uitwerken voor 1e voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  Ik vind de uitleg in de lessen heel fijn. Alleen ik merk dat ik zelf vaak niet weet waar ik moet beginnen. Ik weet nog niet heel veel van code. veel termen zijn dan ook nieuw. Ik merk dat ik vaak niet weet hoe ik iets moet maken, code is niet mijn sterke kant. Maar ik probeer zo veel mogelijk te oefenen en te vragen zo dat het me toch gaat lukken.
 
 
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
-
+  | student 1  Fee    :   1. Ik moet alles nog in html zetten, tekst+ plaatjes
+                          2. alle afbeeldingen inladen
+                          3. css begin maken
+  | student 2  Mila   :   1. Basis structuur maken
+                          2. Inhoud verzamelen (afbeeldingen, iconen, fonts)
+                          3. Bronnen niet vergeten
+                          4. CSS’en
+  | student 3  Steven :   1. start maken in css
+                          2. oefenen met positioneren
+                          3. weten wanneer ik flex-box of grid moet gebruiken
+    
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
