@@ -40,12 +40,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   homepagina 
-  <img src="https://user-images.githubusercontent.com/118175206/201687715-a26e1978-06f5-4540-9a6d-862788142bd8.png" width="375px" alt="homepagina">
+  <img src="" width="375px" alt="homepagina">
 
-  #### Screenshot(s) van de tweede pagina (small screen): 
-  <img src="https://user-images.githubusercontent.com/118175206/201687376-73d885b3-304e-4d85-b96a-6400a208487d.png" width="375px" alt="nagellak pagina">
-
+  #### Screenshot(s) van de tweede pagina (small screen):
+  hier de naam van de pagina  
+  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="nagellak pagina">
  
+</details>
 
 
 
@@ -58,40 +59,27 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Lijst met je bevindingen die in de test naar voren kwamen:
 
   #### Screenreader
- Heb eerst gekeken naar hoe de screen reader werkt. En even door de twee pagina’s gegaan. 
--	Kopjes en de linkjes duidelijk maken.
--	Je kunt filteren op kopjes en linkjes. 
--	Alles was te bereiken met de screenreader
+  Hier korte omschrijving (met indien nodig afbeeldingen)
+
+  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
 
 
   #### Muis en Toetsenbord 
- Ik ben gaan kijken of alles op de website te bereiken is met alleen het toetsenbord.
+  Hier korte omschrijving (met indien nodig afbeeldingen)
 
--	Je kunt niet naar de nagellakjes met tap.
--	Je kunt goed heen en weer op de website doormiddel van het toetsen bord
--	Alles moet met het toetsenbord te bereiken zijn voor mensen met een trillend arm. 
+  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
 
 
   #### Motoriek (shocks, elastiekjes)
-  Ik heb gekeken hoe het is als je een beperking hebt, zoals een trillend arm. Ook heb ik verschillende brilletjes op gezet hoe het is als je zicht beperkt is. Of hoe het is om heel snel afgeleid te zijn. 
-  
--	Met een trillende arm is het besturen van de muis heel lastig. Zo klik je snel mis. Daarom is het belangrijk dat je knoppen groot genoeg zijn.
--	Alles moet met het toetsenbord te bereiken zijn voor mensen met een trillend arm. 
--	Door minder goed zicht is het fijn dat de tekst niet in kleuren is maar in het zwart. Gekleurde tekst moet zwart worden.
--	Als je snel afgeleid bent zorgen de vele kleuren snel voor afleiding. 
--	Het is belangrijk dat de teksten en de buttons groot genoeg zijn.
--	Alle informatie moet groot genoeg zijn voor mensen met een slecht zicht. Sommige teksten kunnen groter.
+  Hier korte omschrijving (met indien nodig afbeeldingen)
+
+  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
 
 
   #### Visueel (brillen, contrast, kleurenblind, dark/light). 
-Ik heb via inspecteren de kleuren van de website verandert en gekeken hoe het is voor iemand die niet meer zo goed ziet.
+  Hier korte omschrijving (met indien nodig afbeeldingen)
 
--	Als je de kleuren anders ziet is het handig als de namen van de nagellak kleuren goed omschreven zijn. De meeste zijn dat ook.
--	Als je minder goed ziet is het belangrijk dat de letter grootte groot genoeg is.
--	Als je alles in een grijstint ziet is alles gelijk heel eentonig. Het is goed om voorgrondkleuren en achtergrondkleuren van elkaar te laten verschillen.
-
-
-
+  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
 
 </details>
 
@@ -123,23 +111,18 @@ Ik heb via inspecteren de kleuren van de website verandert en gekeken hoe het is
   <summary>uitwerken voor 1e voortgang</summary>
 
   ### Stand van zaken
-  Ik vind de uitleg in de lessen heel fijn. Alleen ik merk dat ik zelf vaak niet weet waar ik moet beginnen. Ik weet nog niet heel veel van code. veel termen zijn dan ook nieuw. Ik merk dat ik vaak niet weet hoe ik iets moet maken, code is niet mijn sterke kant. Maar ik probeer zo veel mogelijk te oefenen en te vragen zo dat het me toch gaat lukken.
+  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
 
 
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1  Fee    :   1. Ik moet alles nog in html zetten, tekst+ plaatjes
-                          2. alle afbeeldingen inladen
-                          3. css begin maken
-  | student 2  Mila   :   1. Basis structuur maken
-                          2. Inhoud verzamelen (afbeeldingen, iconen, fonts)
-                          3. Bronnen niet vergeten
-                          4. CSS’en
-  | student 3  Steven :   1. start maken in css
-                          2. oefenen met positioneren
-                          3. weten wanneer ik flex-box of grid moet gebruiken
-    
+  | student 1      | student 2          | student 3    | student 4        |
+  | ---            | ---                | ---          | ---              |
+  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
+  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
+  | ...            | ...                | ...          | ...              |
+
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
@@ -161,13 +144,17 @@ Ik heb via inspecteren de kleuren van de website verandert en gekeken hoe het is
   <summary>uitwerken voor 2e voortgang</summary>
 
   ### Stand van zaken
-  Ik merk dat ik heel snel vast loop en daar door heel snel gedemotiveerd raak. Ik ben nu goed opweg met de eerste pagina en ben blij met de hulp van de studentassistenten. 
+  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
 
 
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-- ik heb vragen over de navigatie.
+  | student 1      | student 2          | student 3    | student 4        |
+  | ---            | ---                | ---          | ---              |
+  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
+  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
+  | ...            | ...                | ...          | ...              |
 
 
   ### Verslag van meeting
@@ -190,29 +177,30 @@ Ik heb via inspecteren de kleuren van de website verandert en gekeken hoe het is
   <summary>uitwerken na test in 8e werkgroep</summary>
 
   ### Bevindingen
- mijn website is nog niet heel ver om goed te testen, maar zo ver als kan heb ik getest.
+  Lijst met je bevindingen die in de test naar voren kwamen (geef ook aan wat er verbeterd is):
 
   #### Screenreader
-  De screanreader werkt over het algemeen al goed. Hij pakt alle kopjes en linkjes. Alleen de linkjes in de nav deden gek.
-  
+  Hier korte omschrijving (met indien nodig afbeeldingen)
+
+  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
 
 
   #### Muis en Toetsenbord 
- Ik ben gaan kijken of alles op de website te bereiken is met alleen het toetsenbord.
+  Hier korte omschrijving (met indien nodig afbeeldingen)
 
-- je kunt door alle buttons tabben.
+  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+
 
   #### Motoriek (shocks, elastiekjes)
+  Hier korte omschrijving (met indien nodig afbeeldingen)
 
-  
-- sommige knoppen waren nog niet groot genoeg, dit is wel van belang voor mensen met een trillende arm. 
-
+  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
 
 
   #### Visueel (brillen, contrast, kleurenblind, dark/light). 
- Ik heb via inspecteren de kleuren van de website verandert en gekeken hoe het is voor iemand die niet meer zo goed ziet.
+  Hier korte omschrijving (met indien nodig afbeeldingen)
 
-- Alle kleuren zijn hetzelfde als op de echte website. Ik vind wel dat omdat alles in roze tinten is het snel slecht te zien is voor kleurenblinden. Het is daarom echt belangrijk dat de titels van de lakjes kloppen en duidelijk zijn.
+  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
 
 </details>
 
@@ -226,16 +214,17 @@ Ik heb via inspecteren de kleuren van de website verandert en gekeken hoe het is
   <summary>uitwerken voor 3e voortgang</summary>
 
   ### Stand van zaken
- Ik ben grotendeels klaar met de eerste pagina. Ik heb nog een paar vragen aan de studentassistenten. 
+  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
 
 
   ### Agenda voor meeting
   samen met je groepje opstellen
 
--  tekst op de header zetten. 
-- De navigatie werkt niet
-- buttons hebben een gek randje
-- Hoe zorg ik dat de grid goed verdeeld is. Een button is steeds groter dan de rest.
+  | student 1      | student 2          | student 3    | student 4        |
+  | ---            | ---                | ---          | ---              |
+  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
+  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
+  | ...            | ...                | ...          | ...              |
 
 
   ### Verslag van meeting
