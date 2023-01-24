@@ -1,0 +1,42 @@
+main > section h2{
+	display: none;
+}
+
+main > section:first-of-type {
+	display: grid;
+    gap:1em;
+	position: relative;
+}
+
+main > section:first-of-type form {
+	display:flex;
+	flex-wrap: wrap;
+	gap:.5em;
+	padding:.5em;
+}
+
+main > section:first-of-type form p{
+	flex-basis: 100%;
+	text-align: center;
+	margin:0;
+}
+
+main > section:first-of-type form button, main > button:first-of-type{
+  background-color: var(--button-background);
+	border-radius: .5em;
+	border-color: rgb(215, 215, 215);
+	border: 1px solid grey;
+	font-size: small;
+	text-transform: uppercase;
+	padding: 1em 3em;
+  flex: 1;
+}
+
+main > section:first-of-type form button:first-of-type, main > button:first-of-type{
+  background-color: var(--button-color);
+  color: var(--button-background);
+}
+main > button:first-of-type{
+  display: block;
+  margin: 0 auto;
+}
