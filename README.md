@@ -45,7 +45,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   #### Screenshot(s) van de tweede pagina (small screen):
   hier de naam van de pagina  
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="nagellak pagina">
- 
+<img width="1440" alt="Schermafbeelding 2023-01-24 om 16 24 42" src="https://user-images.githubusercontent.com/118175206/214335250-9d575be1-6c02-412e-9421-77d4dd478bf8.png">
+
 </details>
 
 
