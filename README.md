@@ -41,6 +41,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   #### Screenshot(s) van de eerste pagina (small screen): 
   homepagina 
   <img src="" width="375px" alt="homepagina">
+<img width="564" alt="Schermafbeelding 2023-01-24 om 16 26 29" src="https://user-images.githubusercontent.com/118175206/214335547-d11040d6-f2b2-4759-911d-a03a6679c80b.png">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   hier de naam van de pagina  
